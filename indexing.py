@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Ethan Wong
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# FILENAME: indexing.py
+# SPECIFICATION: Outputting the tf-idf document-term matrix as specified in question 7
 # FOR: CS 4250 - Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 6 hours
 #-----------------------------------------------------------*/
 
 #Importing some Python libraries
